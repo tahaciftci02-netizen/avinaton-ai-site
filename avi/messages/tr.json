@@ -1,0 +1,254 @@
+{
+  "site": {
+    "name": "AviNation Türkiye",
+    "description": "Türkiye havacılık öğrenci topluluklarını tek bir standartta buluşturan ulusal ağ.",
+    "tagline": "Gökyüzünde Birlikte Daha Güçlü"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "clubs": "Kulüpler",
+    "ulusalModel": "Ulusal Model",
+    "partners": "Partnerlik",
+    "about": "Hakkımızda",
+    "apply": "Başvuru"
+  },
+  "ai": {
+    "launcher": "AI",
+    "title": "AviNation Asistan",
+    "greeting": "Merhaba! AviNation Türkiye ile ilgili ne öğrenmek istersin? (başvuru, kulüpler, ulusal model, partnerlik…)",
+    "placeholder": "Mesaj yaz…",
+    "send": "Gönder",
+    "close": "Kapat",
+    "error_generic": "Bir hata oluştu.",
+    "error_empty": "Mesaj boş olamaz."
+  },
+  "home": {
+    "metaTitle": "Türkiye Havacılık Kulüpleri Ulusal Ağı",
+    "metaDescription": "Türkiye havacılık öğrenci topluluklarını tek bir standartta buluşturan ulusal ağ.",
+    "heroTitle": "Türkiye Havacılık Kulüpleri Ulusal Ağı",
+    "heroSubtitle": "Kulüplerin bağımsızlığını koruyan; görünürlük, koordinasyon ve ulusal etki sağlayan ortak platform.",
+    "ctaPrimary": "Kulüpleri Gör",
+    "ctaSecondary": "Başvur",
+    "heroPill": "Ulusal havacılık kulüpleri ağı • Türkiye",
+    "foundingCta": "Founding Member Ol",
+    "whatIs": "Nedir?",
+    "heroStats": [
+      {
+        "k": "3 Ay",
+        "v": "Pilot dönem"
+      },
+      {
+        "k": "50+",
+        "v": "Kulüp hedefi"
+      },
+      {
+        "k": "Tek Standart",
+        "v": "Ortak format"
+      }
+    ]
+  },
+  "landing": {
+    "features": [
+      {
+        "title": "Koordinasyon",
+        "desc": "Kulüp bağımsızlığı korunur. AviNation Türkiye; ortak takvim, ortak duyuru ve ortak iş birliği için koordinasyon sağlar."
+      },
+      {
+        "title": "Görünürlük",
+        "desc": "Etkinlikler tek bir merkezde toplanır. Üye kulüpler ulusal seviyede daha fazla görünür olur."
+      },
+      {
+        "title": "Ulusal Etki",
+        "desc": "Aynı dili konuşan, aynı standardı kullanan bir ağ. Sponsor ve sektör iletişimi için güçlü bir temel."
+      }
+    ],
+    "steps": [
+      {
+        "n": "01",
+        "title": "Kulüp bağımsız kalır",
+        "desc": "Yönetim, sponsorluk ve etkinlik kararlarınız sizde kalır."
+      },
+      {
+        "n": "02",
+        "title": "Etkinlik platforma girilir",
+        "desc": "Duyurular standart formatta yayınlanır ve paylaşılır."
+      },
+      {
+        "n": "03",
+        "title": "Ortak marka görünürlüğü",
+        "desc": "Her etkinlikte AviNation üyelik ibaresi ile ulusal algı güçlenir."
+      }
+    ],
+    "sections": {
+      "whyTitle": "Neden AviNation?",
+      "howTitle": "Nasıl işler?",
+      "mapTitle": "Türkiye ağı"
+    }
+  },
+  "clubs": {
+    "metaTitle": "Kulüpler",
+    "kicker": "ÜYE KULÜPLER",
+    "title": "Kulüp dizini",
+    "intro": "Bu sayfada AviNation Türkiye ağına dahil olan kulüplerin ve davetli toplulukların listesini bulabilirsin.",
+    "memberBadge": "Üye",
+    "invitedBadge": "Davetli",
+    "visit": "Detaylar"
+  },
+  "club": {
+    "metaTitle": "Kulüp",
+    "back": "Kulüp dizinine dön",
+    "eventsTitle": "Etkinlikler",
+    "contactTitle": "İletişim",
+    "website": "Web sitesi",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "labels": {
+      "university": "Üniversite",
+      "city": "Şehir",
+      "email": "E‑posta"
+    }
+  },
+  "about": {
+    "metaTitle": "Hakkımızda",
+    "title": "AviNation Türkiye nedir?",
+    "p1": "AviNation Türkiye, havacılık öğrenci topluluklarını ortak standartlarda bir araya getiren ulusal ağdır.",
+    "p2": "Amaç; kulüp bağımsızlığını koruyarak görünürlük, koordinasyon ve sektör ile iletişimi güçlendirmektir."
+  },
+  "partners": {
+    "metaTitle": "Partnerlik",
+    "title": "Partnerlik",
+    "p1": "Sektör paydaşlarıyla sürdürülebilir iş birlikleri kuruyoruz.",
+    "cta": "Partnerlik için iletişime geç"
+  },
+  "founding": {
+    "metaTitle": "Kurucu Başvuru",
+    "title": "Kurucu kulüp başvurusu",
+    "p1": "Ulusal ağın kurucu üyeleri arasında yer almak için başvurunu tamamla.",
+    "kicker": "KURUCU KULÜP"
+  },
+  "ulusalModel": {
+    "metaTitle": "Ulusal Model",
+    "title": "Ulusal Model",
+    "subtitle": "Kulüplerin bağımsızlığını koruyan, ortak standartlarla büyüyen yapı.",
+    "pill": "MODEL",
+    "faqTitle": "Sık sorulanlar",
+    "points": [
+      {
+        "title": "Bağımsızlık",
+        "desc": "Kulüpler kendi yönetim, sponsorluk ve etkinlik kararlarını bağımsız biçimde alır."
+      },
+      {
+        "title": "Standart",
+        "desc": "Duyuru dili, afiş düzeni ve raporlama ortak bir standarda bağlanır."
+      },
+      {
+        "title": "Koordinasyon",
+        "desc": "Ortak takvim ve iş birliği mekanizmalarıyla ulusal etki güçlenir."
+      }
+    ]
+  },
+  "apply": {
+    "metaTitle": "Başvuru",
+    "title": "Başvuru formu",
+    "subtitle": "AviNation Türkiye ağına katılmak için bilgilerini gönder.",
+    "submit": "Gönder",
+    "success": "Başvurun alındı. En kısa sürede dönüş yapacağız.",
+    "error": "Lütfen gerekli alanları doldur."
+  },
+  "credibility": {
+    "kicker": "GÜVEN & ÖLÇEK",
+    "title": "Yapı görünür olunca, destek de görünür olur.",
+    "text": "AviNation Türkiye, kulüplerin enerjisini tek bir standartta birleştirir. Bu sayfa; sponsorlara, okullara ve paydaşlara ağın ölçeğini ve disiplinini gösterir.",
+    "cta": "Kulüp dizinini incele"
+  },
+  "extras": {
+    "marqueeItems": [
+      "Kulüp Birliği",
+      "Ulusal Duyuru Standardı",
+      "Sponsor Algısı",
+      "Ortak Takvim",
+      "Founding Programı",
+      "Türkiye Ağı"
+    ],
+    "finalTitle": "İlk halkaya dahil ol.",
+    "finalText": "Founding kulüpler, bu yapının ilk standardını ve ilk algısını inşa eden çekirdek ekip. Bu fırsat bir kez gelir.",
+    "finalPrimary": "Founding Detayları",
+    "finalSecondary": "Başvur",
+    "mapKicker": "HARİTA",
+    "mapTitle": "Türkiye ağı",
+    "mapText": "Ağın büyümesiyle birlikte şehirler arası köprüler kurulur. Kulübün nerede olursa olsun ulusal görünürlük kazanır."
+  },
+  "map": {
+    "stages": [
+      {
+        "id": "davet",
+        "title": "1) Davet ile Başlar",
+        "desc": "İlk çekirdek kulüpler, kriterlere göre davet edilir. İsimler kulübün onayıyla yayınlanır.",
+        "badge": "Davet"
+      },
+      {
+        "id": "pilot",
+        "title": "2) Pilot Dönem (Standartlar)",
+        "desc": "Ortak dil, etkinlik standartları ve iletişim akışı netleşir. Sistem burada oturur.",
+        "badge": "Pilot"
+      },
+      {
+        "id": "ulusal",
+        "title": "3) Ulusal Ağ",
+        "desc": "Standart oturduktan sonra ölçeklenir: daha fazla kulüp, daha fazla görünürlük, daha fazla sektör bağlantısı.",
+        "badge": "Ulusal"
+      }
+    ],
+    "hint": "Aşamaları incelemek için kartlara tıkla."
+  },
+  "cinematic": {
+    "kicker": "DENEYİM",
+    "title": "Bir site değil — bir platform hissi.",
+    "text": "AviNation Türkiye; kulüpleri “tek çatı” altında görünür kılar. Sponsora ölçek hissi verir. Öğrenciye aidiyet hissi verir.",
+    "panels": [
+      {
+        "tag": "ÖLÇEK",
+        "title": "Ulusal görünürlük",
+        "desc": "Tek tek duyurular yerine, tek bir akış. İnsanlar büyümeyi görmek ister — biz gösteririz."
+      },
+      {
+        "tag": "STANDART",
+        "title": "Ortak format",
+        "desc": "Afiş düzeni, duyuru dili, rozet kullanımı: aynı standart. Dağınıklık yerine netlik."
+      },
+      {
+        "tag": "ETKİ",
+        "title": "İş birliği hızı",
+        "desc": "Kulüpler birbirini bulur. Ortak etkinlikler artar. Etki, organizasyonla büyür."
+      }
+    ]
+  },
+  "applyForm": {
+    "kicker": "KATILIM TALEBİ",
+    "heading": "Başvuru Formu",
+    "lead": "Kısa bilgileri paylaşın; devamında online değerlendirme görüşmesi ile süreç netleştirilir.",
+    "submittedTitle": "Talebiniz alındı.",
+    "submittedText": "Ekibimiz en kısa sürede sizinle iletişime geçecek.",
+    "university": "Üniversite",
+    "universityPh": "Örn. İstanbul Esenyurt Üniversitesi",
+    "clubName": "Kulüp Adı",
+    "clubNamePh": "Örn. Robotik Kodlama ve Havacılık Topluluğu",
+    "repName": "Temsilci Ad Soyad",
+    "repNamePh": "Örn. Taha Çiftçi",
+    "repRole": "Görev / Ünvan",
+    "repRolePh": "Örn. Kulüp Başkanı / Yönetim",
+    "email": "E‑posta",
+    "emailPh": "ornek@universite.edu.tr",
+    "phone": "Telefon",
+    "phonePh": "+90 5xx xxx xx xx",
+    "linkedin": "Kulüp LinkedIn (opsiyonel)",
+    "linkedinPh": "LinkedIn sayfası linki",
+    "advisor": "Akademik Danışman (opsiyonel)",
+    "advisorPh": "Ad Soyad",
+    "motivation": "Neden AviNation Ulusal Ağına katılmak istiyorsunuz?",
+    "motivationPh": "Kısa ve net: hedefiniz, katkınız ve bu ağdan beklentiniz…",
+    "consent": "Paylaştığım bilgilerin katılım değerlendirmesi amacıyla kullanılmasını kabul ediyorum.",
+    "invalid": "Formu gönderebilmek için zorunlu alanları doldurun.",
+    "submit": "Katılım Talebi Gönder"
+  }
+}
